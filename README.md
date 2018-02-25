@@ -17,6 +17,12 @@ Syntax highlighted code block
 
 Kbeznak Parmatonic for csce 670 homework by dr. James Caverlee
 
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 Trends (Top Search Key Words):
 
 1. [Warriors](https://www.sbnation.com/nba/2018/2/25/17049712/warriors-vs-thunder-recap-kevin-durant-flex)
@@ -24,12 +30,6 @@ Trends (Top Search Key Words):
 3. [NBA Young Boy](http://www.tmz.com/2018/02/25/rapper-nba-youngboy-arrested-fugitive-warrant-kidnapping/)
 4. [Walking Dead](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/insertcoin/2018/02/25/the-unlikely-ways-carl-could-survive-tonights-the-walking-dead-premiere/&refURL=https://trends.google.com/trends/hottrends&referrer=https://trends.google.com/trends/hottrends)
 5. [Rick Nash](https://www.si.com/nhl/2018/02/25/rick-nash-trade-news-rangers-bruins)
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
