@@ -15,11 +15,16 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Kbeznak Parmatonic for csce 670 homework by dr. James Caverlee
 
-1. Numbered
-2. List
+Trends (Top Search Key Words):
+
+1. [Warriors](https://www.sbnation.com/nba/2018/2/25/17049712/warriors-vs-thunder-recap-kevin-durant-flex)
+2. [Galaxy S9](https://www.theverge.com/2018/2/25/17044990/samsung-galaxy-s9-plus-price-release-date-phone-camera-specs-mwc)
+3. [NBA Young Boy](http://www.tmz.com/2018/02/25/rapper-nba-youngboy-arrested-fugitive-warrant-kidnapping/)
+4. [Walking Dead](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/insertcoin/2018/02/25/the-unlikely-ways-carl-could-survive-tonights-the-walking-dead-premiere/&refURL=https://trends.google.com/trends/hottrends&referrer=https://trends.google.com/trends/hottrends)
+5. [Rick Nash](https://www.si.com/nhl/2018/02/25/rick-nash-trade-news-rangers-bruins)
+
 
 **Bold** and _Italic_ and `Code` text
 
