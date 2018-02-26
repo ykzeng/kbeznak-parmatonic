@@ -1,3 +1,7 @@
+title: "Kbeznak Parmatonic"
+author: "Yukun Zeng"
+
+
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-seo-tag
